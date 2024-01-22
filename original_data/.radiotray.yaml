@@ -1,0 +1,7 @@
+radios:
+- name: TSF Jazz
+  format: mp3
+  source: https://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
+- name: France Inter
+  format: mp3
+  source: https://icecast.radiofrance.fr/franceinter-midfi.mp3

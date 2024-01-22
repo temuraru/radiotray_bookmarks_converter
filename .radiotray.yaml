@@ -1,0 +1,11 @@
+radios:
+- name: TSF Jazz
+  format: mp3
+  source: https://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
+- name: France Inter
+  format: mp3
+  source: https://icecast.radiofrance.fr/franceinter-midfi.mp3
+- format: mp3
+- format: mp3
+  name: Nostalgie FM
+  source: http://cdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3?origine=fluxradios
